@@ -1,2 +1,4 @@
 # Watershed-Delineation-Tool
-The Watershed Delineation Tool is a robust ArcGIS-based utility designed to delineate watershed boundaries and extract hydrological features from a DEM. 
+The Watershed Delineation Tool is a robust ArcGIS-based utility designed to delineate watershed boundaries and extract hydrological features from a DEM. By leveraging advanced terrain analysis techniques, the tool identifies drainage divides, generates flow direction and accumulation rasters, and defines stream networks based on user-specified thresholds. It allows users to create watershed and sub-watershed polygons by selecting pour points or automatically linking stream networks. This tool is ideal for hydrological modeling, water resource management, and environmental planning, providing outputs such as watershed boundaries, stream polylines, and flow accumulation maps for effective decision-making and analysis.
+
+![image](https://github.com/user-attachments/assets/6783d195-27d2-4f24-8521-87aa056e1209)
